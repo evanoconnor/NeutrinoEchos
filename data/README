@@ -1,0 +1,12 @@
+Data located at:
+Gullin, S, O'Connor, E, Wang, J.-S., & Tseng, J. (2021). Dataset associated with Gullin et al. [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5701464
+
+This data is provide to reproduce the figures of Gullin et al. (arXiv:2109.13242).  Please use the GitHub repository located at https://github.com/evanoconnor/NeutrinoEchos and place this tar file in the data directory. Then
+
+tar -xf gullinetal_dataset.tar
+
+and
+
+tar -zxf GR1D_output_files.tar.gz
+
+the untarred, unzipped dataset is roughly 3GB
